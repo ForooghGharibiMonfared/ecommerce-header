@@ -19,6 +19,7 @@ This project is a fully responsive, modern e-commerce website header built using
 - Vanilla JavaScript (no frameworks)
 
 <img src="header.png" />
+<img src="search.png" />
 
 
 
