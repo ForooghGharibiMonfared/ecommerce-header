@@ -18,6 +18,8 @@ This project is a fully responsive, modern e-commerce website header built using
 - Google Fonts (Inter)
 - Vanilla JavaScript (no frameworks)
 
+<img src="header.png" />
+
 
 
 
